@@ -27,17 +27,17 @@ function App() {
         <a className="header-link" href="#">
           <span className="link-text">Dexscreener</span>
 
-          <img className="link-img" src="/public/icons/dexscreener.png" alt="Dexscreener icon." />
+          <img className="link-img" src="/icons/dexscreener.png" alt="Dexscreener icon." />
         </a>
         <a className="header-link" href="#">
           <span className="link-text">Dextools</span>
 
-          <img className="link-img" src="/public/icons/dextools_icon.png" alt="Dextools icon." />
+          <img className="link-img" src="/icons/dextools_icon.png" alt="Dextools icon." />
         </a>
         <a className="header-link" href="#">
           <span className="link-text">Raydium</span>
 
-          <img className="link-img" src="/public/icons/raydium_icon.png" alt="Raydium icon." />
+          <img className="link-img" src="/icons/raydium_icon.png" alt="Raydium icon." />
         </a>
       </header>
     </div>
